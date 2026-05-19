@@ -1,0 +1,10 @@
+[
+  {
+    "name": "TinyLlama",
+    "hf_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+  },
+  {
+    "name": "Mistral7B",
+    "hf_name": "mistralai/Mistral-7B-Instruct-v0.2"
+  }
+]

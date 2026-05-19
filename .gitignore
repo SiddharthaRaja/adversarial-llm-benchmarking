@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# HuggingFace cache
+hf_cache/
+
+# Logs
+logs/
+
+# Results
+results/*.csv
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+
+# Large model files
+*.bin
+*.safetensors
+
+# Slurm
+slurm/*.out
+slurm/*.err
